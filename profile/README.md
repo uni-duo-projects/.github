@@ -1,23 +1,22 @@
-# Welcome to Uni Duo Projects 👋
+# Uni Duo Projects
 
-We are two University students passionate about software development. 
-This organization hosts our joint academic projects, ranging from computer science fundamentals to full-stack applications.
+This organization serves as a central repository for academic software projects and assignments developed collaboratively by @eneamanzi and @Riiccardob.
 
-## 🎓 About Us
-- 🏫 **University:** [Nome della vostra Università]
-- 📍 **Focus:** Software Engineering, Algorithms, and [Tua Area di Interesse]
-- 🎯 **Goal:** Building clean, well-documented, and efficient code.
+## About Us
+University Students specialized in Cyber Security. This portfolio documents our joint technical growth and academic achievements.
 
-## 🛠 Tech Stack
-We mainly work with:
-- **Languages:** Python, Java, C++, JavaScript
-- **Frontend:** HTML/CSS, React (o quello che usate)
-- **Tools:** Git, Docker, Linux
+## Technical Skills
+- Programming Languages: Python, Java, C++, JavaScript
+- Technologies and Frameworks: [Inserire es. React, SQL, Node.js]
+- Tools: Git, Docker, Linux environment
 
-## 🏆 Featured Projects
-*List of our most significant academic works:*
-1. **[Project Name 1]** - A brief 1-sentence description of what it does.
-2. **[Project Name 2]** - A brief 1-sentence description of what it does.
+## Key Projects
+1. [Project Name 1]: Brief description of the project purpose and technical implementation.
+2. [Project Name 2]: Brief description of the project purpose and technical implementation.
+3. [Project Name 3]: Brief description of the project purpose and technical implementation.
+
+## Education
+All projects hosted here were developed during our studies at [Nome Università]. Documentation is maintained in English to meet professional and international standards.
 
 ---
-*Feel free to explore our repositories! All projects are documented in English.*
+Contact and further information can be found through our individual GitHub profiles.
